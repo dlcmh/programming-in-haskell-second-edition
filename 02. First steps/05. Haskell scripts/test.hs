@@ -1,5 +1,5 @@
 -- ghci test.hs
--- :reload to load new code
+-- :reload or :r to reload new code
 
 double x = x + x
 
