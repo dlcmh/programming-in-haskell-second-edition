@@ -1,1 +1,1 @@
-# programming-in-haskell-second-edition
+# Programming in Haskell - 2nd Edition
